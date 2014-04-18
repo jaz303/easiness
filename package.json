@@ -1,0 +1,25 @@
+{
+  "name": "easiness",
+  "version": "0.0.0",
+  "description": "Single argument easing functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jaz303/easiness.git"
+  },
+  "keywords": [
+    "easing",
+    "tween",
+    "equations",
+    "animation"
+  ],
+  "author": "Jason Frame <jason@onehackoranother.com> (http://jasonframe.co.uk)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaz303/easiness/issues"
+  },
+  "homepage": "https://github.com/jaz303/easiness"
+}
