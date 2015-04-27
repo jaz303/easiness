@@ -1,6 +1,6 @@
 {
   "name": "easiness",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Single argument easing functions",
   "main": "index.js",
   "scripts": {
